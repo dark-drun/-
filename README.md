@@ -55,7 +55,7 @@ ____
 
 ## :trollface: *Сущности БД*
 
-###  Пользователи (_Users_)
+###  Пользователи :couple: (_Users_)
 
 | id | name | email | password_hash | level | total_points | daily_streak | created_at | status |
 |----|------|-------|---------------|-------|--------------|--------------|------------|--------|
@@ -63,7 +63,7 @@ ____
 | 2 | | | | | | | | |
 | 3 | | | | | | | | |
 
-###  Языки (_Languages_)
+###  Языки :globe_with_meridians: (_Languages_)
 
 | id | name | code | native_name | speakers_count | difficulty | created_at | status |
 |----|------|------|-------------|----------------|------------|------------|--------|
@@ -71,7 +71,7 @@ ____
 | 2 | | | | | | | |
 | 3 | | | | | | | |
 
-###  Администраторы (_Admins_)
+###  Администраторы :shipit: (_Admins_)
 
 | id | user_id | name | email | role | permissions | last_login | created_at | status |
 |----|---------|------|-------|------|-------------|------------|------------|--------|
