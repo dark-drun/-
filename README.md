@@ -1,4 +1,4 @@
-#  *LinguaMaster*
+# :goberserk: *LinguaMaster* :goberserk:
 ## :speech_balloon: Приложение для изучения иностранных языков
 
 > "Учи язык с удовольствием — эффективно, быстро и интересно"
